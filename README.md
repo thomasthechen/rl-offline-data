@@ -1,1 +1,3 @@
-# rl-offline-data
+## Code for Computing Effective Kernel Covariance Dimension
+
+
